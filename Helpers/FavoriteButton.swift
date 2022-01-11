@@ -19,7 +19,7 @@ struct FavoriteButton: View {
         }
     }
 }
-
+//ㄴㄴㄴㄴㄴㄴ
 struct FavoriteButton_Previews: PreviewProvider {
     static var previews: some View {
         FavoriteButton(isSet: .constant(true))
